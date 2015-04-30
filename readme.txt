@@ -59,7 +59,8 @@ The plugin's page can be found [here](http://www.viewvox.com/plugins/social-medi
 
 == Screenshots ==
 
-1. Settings screen
+1. Settings screen 1
+2. Settings screen 2
 
 
 == Changelog ==
